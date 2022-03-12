@@ -1,0 +1,12 @@
+[submodule "ektelo"]
+	path = ektelo
+	url = https://github.com/ektelo/ektelo.git
+[submodule "Daisy"]
+	path = Daisy
+	url = https://github.com/ruclty/Daisy.git
+[submodule "src/ektelo"]
+	path = src/ektelo
+	url = https://github.com/ektelo/ektelo.git
+[submodule "competitors/hdmm"]
+	path = competitors/hdmm
+	url = https://github.com/dpcomp-org/hdmm.git

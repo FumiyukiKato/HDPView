@@ -1,0 +1,12 @@
+# Dataset
+*.csv
+*.attributes
+*.tuples
+*/datasets/
+*/multi-data/
+
+dataset/
+*/synthetic_data/
+*/data/
+*/results/
+*/count_pickle/
