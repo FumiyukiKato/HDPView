@@ -3,6 +3,8 @@
 **HDPView: Differentially Private Materialized View for Exploring High Dimensional Relational Data**
 
 
+How can we explore the unknown properties of high-dimensional sensitive relational data while preserving privacy? We study how to construct an explorable privacy-preserving materialized view under differential privacy. (Accepted at VLDB '22)
+
 ### Souce code Download
 ```
 $ git clone --recursive https://github.com/FumiyukiKato/HDPView.git
